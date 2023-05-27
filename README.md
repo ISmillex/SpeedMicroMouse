@@ -70,9 +70,7 @@ For a comprehensive list of features, please refer to the [Features](/features) 
 
 We welcome contributions from the community to make SpeedMouse even better. If you would like to contribute, please follow these steps:
 
-1. Fork the repository
-
- and clone it locally.
+1. Fork the repository and clone it locally.
 2. Create a new branch for your feature or bug fix.
 3. Implement your changes and ensure that the code follows the project's coding guidelines.
 4. Write tests to validate your code if applicable.
