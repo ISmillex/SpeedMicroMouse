@@ -1,6 +1,6 @@
-# SpeedMouse
+# SpeedMicroMouse
 
-Welcome to the SpeedMouse repository! SpeedMouse is a Micromouse project aimed at developing a fast and efficient autonomous robot capable of navigating a maze in the shortest time possible. This repository contains all the necessary code and documentation to build, program, and optimize your own Micromouse robot.
+Welcome to the SpeedMicroMouse repository! SpeedMicroMouse is a Micromouse project aimed at developing a fast and efficient autonomous robot capable of navigating a maze in the shortest time possible. This repository contains all the necessary code and documentation to build, program, and optimize your own Micromouse robot.
 
 ![SpeedMouse Demo](speedmouse_demo.gif)
 
