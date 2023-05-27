@@ -2,7 +2,7 @@
 
 Welcome to the SpeedMicroMouse repository! SpeedMicroMouse is a Micromouse project aimed at developing a fast and efficient autonomous robot capable of navigating a maze in the shortest time possible. This repository contains all the necessary code and documentation to build, program, and optimize your own Micromouse robot.
 
-![SpeedMouse Demo](speedmouse_demo.gif)
+![SpeedMicroMouse Demo](speedmouse_demo.gif)
 
 ## Table of Contents
 
@@ -56,11 +56,11 @@ For detailed design specifications, assembly instructions, and 3D-printable file
 
 ## Features
 
-- **Maze Solving**: SpeedMouse implements efficient maze-solving algorithms that aim to find the shortest path from the maze's starting point to its center.
+- **Maze Solving**: SpeedMicroMouse implements efficient maze-solving algorithms that aim to find the shortest path from the maze's starting point to its center.
 
 - **Real-time Mapping**: The robot uses its sensors to build a real-time map of the maze, enabling it to make informed decisions about its path.
 
-- **Speed Optimization**: SpeedMouse is designed to achieve maximum speed while maintaining precise control to navigate the maze swiftly.
+- **Speed Optimization**: SpeedMicroMouse is designed to achieve maximum speed while maintaining precise control to navigate the maze swiftly.
 
 - **Modularity**: The SpeedMouse architecture is modular, allowing users to experiment with different sensors, algorithms, and hardware configurations.
 
